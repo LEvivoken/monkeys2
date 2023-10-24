@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300&display=swap');
+
+
+
 body{
     background-color: #f3e4be;
+    font-family: 'Inknut Antiqua', serif;
 }
-
-
-
