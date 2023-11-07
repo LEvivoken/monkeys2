@@ -7,10 +7,10 @@ body{
     font-family: 'Inknut Antiqua', serif;
 }
 nav{
-background-color:black;
+background-color:lightgreen;
 padding:15px;
 position:fixed;
-background-image: url(coffeee.jpg);
+
 }
 
 nav a{
@@ -29,5 +29,5 @@ nav a:hover{
     background-image: url(banner.jpg);
     background-position: center center;
     background-size:cover;
-    height:400px
+    height:400px;
 }
