@@ -6,3 +6,28 @@ body{
     background-color: #f3e4be;
     font-family: 'Inknut Antiqua', serif;
 }
+nav{
+background-color:black;
+padding:15px;
+position:fixed;
+background-image: url(coffeee.jpg);
+}
+
+nav a{
+    color: white;
+    margin:15px;
+
+
+}
+nav a:hover{
+    color:white;
+    text-decoration:none;
+
+}
+.banner{
+
+    background-image: url(banner.jpg);
+    background-position: center center;
+    background-size:cover;
+    height:400px
+}
