@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300&display=swap');
+
+
+
+body{
+    background-color: #f3e4be;
+    font-family: 'Inknut Antiqua', serif;
+}
+nav{
+background-color:lightgreen;
+padding:15px;
+position:fixed;
+
+}
+
+nav a{
+    color: white;
+    margin:15px;
+
+
+}
+nav a:hover{
+    color:white;
+    text-decoration:none;
+
+}
+.banner{
+
+    background-image: url(banner.jpg);
+    background-position: center center;
+    background-size:cover;
+    height:400px;
+}
