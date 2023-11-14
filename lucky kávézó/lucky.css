@@ -16,8 +16,6 @@ position:fixed;
 nav a{
     color: white;
     margin:15px;
-
-
 }
 nav a:hover{
     color:white;
@@ -31,7 +29,6 @@ nav :first-child img{
     width: 40px;
 }
 .banner{
-
     background-image: url(banner.jpg);
     background-position: center center;
     background-size:cover;
@@ -52,11 +49,28 @@ h1{
 }
 .kave:hover{
     box-shadow: 0px 0px 5px green;
-
 }
 .kave h2{
     font-size: 1rem;
     text-align: center;
     margin-top: 1rem;
-
+    margin-bottom: 1rem;
+    font-variant: small-caps;
+}
+.sutik{
+    color:green;
+    background-color: #fff;
+    border: 1px solid green;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+.sutik:hover{
+    box-shadow: 0px 0px 5px green;
+}
+.sutik h2{
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-variant: small-caps;
 }
